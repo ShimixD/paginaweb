@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: aquamarine;
+}
+button {
+    padding: 7px;
+    border-radius: 4px;
+    border-color: rgb(4, 50, 4);
+    background-color: #6fe5c7;
+    cursor: pointer;
+}
+.texto-boton {
+    text-decoration: none;
+}
